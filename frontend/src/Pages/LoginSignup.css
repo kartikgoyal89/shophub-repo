@@ -1,0 +1,10 @@
+.main_container{
+    background-image: url('../Components/Assets/background_img.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 500px;
+}
+.login-container{
+    background-color: rgb(140, 185, 185); 
+}
